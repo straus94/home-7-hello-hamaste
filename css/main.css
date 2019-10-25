@@ -83,12 +83,13 @@ h1, h2 {
 }
 .main {
     text-align: center;
-    font-family: 'Myriad Pro';
+    font-family: myriad-pro, sans-serif;
     font-size: 18px;
     line-height: 30px;
     color: #999999;
-    width: 510px;
+    width: 540px;
     margin: 0 auto;
+    text-transform: uppercase;
 }
 .footer {
     margin: 0 0 0 60px;
